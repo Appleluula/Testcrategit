@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 63D4-2D50
+
+ Directory of D:\Automate_Script\Githubtest
+
+07/14/2016  04:21 PM    <DIR>          .
+07/14/2016  04:21 PM    <DIR>          ..
+07/14/2016  04:21 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  292,721,537,024 bytes free
